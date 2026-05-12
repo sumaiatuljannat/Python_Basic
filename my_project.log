@@ -1,0 +1,10 @@
+2026-05-11 07:58:50,166 - DEBUG-Logger is set up and ready
+2026-05-11 07:58:50,166 - INFO-Starting Ml pipeine
+2026-05-11 07:58:50,166 - WARNING-Dataset has some missing values
+2026-05-11 07:58:50,166 - ERROR-Failed to load model
+2026-05-11 07:58:50,167 - CRITICAL-GPU not found
+2026-05-11 08:03:41,496 - DEBUG-Logger is set up and ready
+2026-05-11 08:03:41,496 - INFO-Starting Ml pipeine
+2026-05-11 08:03:41,496 - WARNING-Dataset has some missing values
+2026-05-11 08:03:41,496 - ERROR-Failed to load model
+2026-05-11 08:03:41,496 - CRITICAL-GPU not found
